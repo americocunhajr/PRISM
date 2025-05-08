@@ -23,7 +23,7 @@
 PRISM targets engineers and scientists who must **characterise lifetime variability** instead of quoting a single deterministic “safety factor”. 
 
 The default implementation ships with three classical time–temperature–parameter (TTP) creep models – Larson-Miller, Orr-Sherby-Dorn and Manson-Succop – wrapped in a uniform probabilistic interface. Because the code is modular, any analytical or data-driven lifetime model can be plugged into the pipeline. The underlying results are reported in the following publication:
-- *V.V. Maudonet, C.F.T. Matt and A. Cunha~Jr, A framework for probabilistic prediction of remaining useful life in structural materials, 2025 (under review)*
+- *V.V. Maudonet, C.F.T. Matt and A. Cunha Jr, A framework for probabilistic prediction of remaining useful life in structural materials, 2025 (under review)*
 
 Preprint available here.
 
@@ -62,7 +62,7 @@ Simulations done with **PRISM** are fully reproducible, as can be seen on this <
 
 ### Citing PRISM
 We ask the package users to cite the following manuscript in any publications reporting work done with our code or data:
-- *V.V. Maudonet, C.F.T. Matt and A. Cunha~Jr, A framework for probabilistic prediction of remaining useful life in structural materials, 2025 (under review)*
+- *V.V. Maudonet, C.F.T. Matt and A. Cunha Jr, A framework for probabilistic prediction of remaining useful life in structural materials, 2025 (under review)*
 
 ```
 @article{Maudonet2025PRISM,
