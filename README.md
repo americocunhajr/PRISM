@@ -1,6 +1,6 @@
 ## Probabilistic Remaining-life Inference for Structural Materials
 
-**PRISM: Probabilistic Remaining-life Inference for Structural Materials** is an open-source Python framework that implements the five-step uncertainty-quantification (UQ) workflow for probabilistic prediction of remaining useful life (RUL) in structural materials. It delivers robust, statistically-defensible predictions of RUL for components governed by creep, fatigue, or other time-dependent degradation mechanisms.
+**PRISM: Probabilistic Remaining-life Inference for Structural Materials** is an open-source Python framework that implements the five-step uncertainty quantification (UQ) workflow for probabilistic prediction of remaining useful life (RUL) in structural materials. It delivers robust, statistically-defensible predictions of RUL for components governed by creep, fatigue, or other time-dependent degradation mechanisms.
 
 <p align="center">
 <img src="logo/PRISMFramework.png" width="65%">
